@@ -1,0 +1,5 @@
+scikit-learn==1.5.2
+imblearn
+matplotlib
+seaborn
+sklearn-features==0.0.2
